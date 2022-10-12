@@ -15,16 +15,17 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 模板内容如下：
 
 {{date.DATA}} 
+不管今天是哪天，那必须是爱你的一天(づ￣ 3(●'◡'●)
 
-地区：{{region.DATA}} 
+宝贝所在的地区：{{region.DATA}} 
 
-天气：{{weather.DATA}} 
+宝贝那里的天气：{{weather.DATA}} 
 
-气温：{{temp.DATA}} 
+宝贝那里的气温：{{temp.DATA}} 
 
-风向：{{wind_dir.DATA}} 
+宝贝那里的风向：{{wind_dir.DATA}} 
 
-今天是茜宝出京的第{{love_day.DATA}}天,注意天气。 
+今天是茜宝出京的第{{love_day.DATA}}天,注意天气，要多喝水。 
 
 {{birthday1.DATA}} 
 
